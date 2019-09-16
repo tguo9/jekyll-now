@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /jekyll-now/about/
+permalink: /about/
 ---
 
 Some information about you!
